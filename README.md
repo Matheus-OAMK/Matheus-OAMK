@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # 🕺 Matheus Oliveira
 
 **`Full Stack Web Developer`**
