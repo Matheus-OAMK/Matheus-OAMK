@@ -4,7 +4,7 @@
 
 **`Full Stack Web Developer`**
 
-I am a full-stack web developer with experience in various technologies. I recently completed my first year of study in Information Technology at Oulu University of Applied Sciences (OAMK). Currently, I am focused on learning Python and Django to further enhance my skill set.
+I am a full-stack web developer with experience in various technologies. I recently completed my first year of study in Information Technology at Oulu University of Applied Sciences (OAMK). Currently, I am focused on learning hybrid and native mobile technologies to further enhance my skillset
 
 Some of my projects are:
 - **[Rulers](https://github.com/Matheus-OAMK/Rulers)**
