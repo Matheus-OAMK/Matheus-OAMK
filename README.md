@@ -34,7 +34,7 @@ Some of my projects are:
 
 ### 📊 Stats
 <!-- Stats cards  -->
-<img align='left' width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-oamk&layout=compact&count_private=true&theme=transparent'/>
+<img align='left' width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-oamk&layout=compact&count_private=true&theme=transparent&hide=html,css'/>
 
 <img align='left' width='47%'  src='https://github-readme-stats.vercel.app/api?username=matheus-oamk&hide=contribs&count_private=true&theme=transparent&show_icons=true&rank_icon=github'/>
 
