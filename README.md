@@ -18,9 +18,9 @@ Some of my projects are:
 
 <!-- Languages and tools badges -->
 ![Typescript](https://img.shields.io/badge/Typescript-ffffff?logo=typescript&style=for-the-badge&color=272626&logoColor=3178C6)
-![solidity](https://img.shields.io/badge/solidity-ffffff?logo=solidity&style=for-the-badge&color=272626&logoColor=6b6a6a)
 ![python](https://img.shields.io/badge/python-ffffff?logo=python&style=for-the-badge&color=272626&logoColor=3776AB)
 ![rust](https://img.shields.io/badge/rust-ffffff?logo=rust&style=for-the-badge&color=272626&logoColor=a84600)
+![solidity](https://img.shields.io/badge/solidity-ffffff?logo=solidity&style=for-the-badge&color=272626&logoColor=6b6a6a)
 ![react](https://img.shields.io/badge/react-ffffff?logo=react&style=for-the-badge&color=272626&logoColor=61DAFB)
 ![NEXT js](https://img.shields.io/badge/NEXT%20js-ffffff?logo=nextdotjs&style=for-the-badge&color=272626&logoColor=000000)
 ![Express.js](https://img.shields.io/badge/Express.js-ffffff?logo=express&style=for-the-badge&color=272626&logoColor=%2361DAFB)
