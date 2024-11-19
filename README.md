@@ -1,30 +1,34 @@
 <base target="_blank">
 
-# 🕺 Matheus Oliveira
+#  Matheus Oliveira
 
 **`Full Stack Web Developer`**
 
-I am a full-stack web developer with experience in various technologies. I recently completed my first year of study in Information Technology at Oulu University of Applied Sciences (OAMK). Currently, I am focused on learning hybrid and native mobile technologies to further enhance my skillset
+Hi there! 👋 I’m a tech enthusiast and full-stack web developer with a passion for building great web applications. Currently, I’m in my third year of Information Technology studies at Oulu University of Applied Sciences (OAMK).
 
+Lately, I’ve been exploring Web3 development and learning about Solidity, which has been a fascinating journey into the world of decentralized technologies. I’m always eager to learn, grow, and connect with others in the tech community!
+<!--
 Some of my projects are:
 - **[Rulers](https://github.com/Matheus-OAMK/Rulers)**
 - **[Omnifood](https://omnifood-matheus-oamk.netlify.app/)**
-
+-->
 ---
 
 ### 🖥️ Languages and Tools
 
 <!-- Languages and tools badges -->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-ffffff?logo=typescript&style=for-the-badge&color=272626&logoColor=3178C6)
+![solidity](https://img.shields.io/badge/solidity-ffffff?logo=solidity&style=for-the-badge&color=272626&logoColor=6b6a6a)
+![python](https://img.shields.io/badge/python-ffffff?logo=python&style=for-the-badge&color=272626&logoColor=3776AB)
+![rust](https://img.shields.io/badge/rust-ffffff?logo=rust&style=for-the-badge&color=272626&logoColor=a84600)
+![react](https://img.shields.io/badge/react-ffffff?logo=react&style=for-the-badge&color=272626&logoColor=61DAFB)
+![NEXT js](https://img.shields.io/badge/NEXT%20js-ffffff?logo=nextdotjs&style=for-the-badge&color=272626&logoColor=000000)
+![Express.js](https://img.shields.io/badge/Express.js-ffffff?logo=express&style=for-the-badge&color=272626&logoColor=%2361DAFB)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-ffffff?logo=nodedotjs&style=for-the-badge&color=272626&logoColor=339933)
+![Postgres](https://img.shields.io/badge/Postgres-ffffff?logo=postgresql&style=for-the-badge&color=272626&logoColor=4169E1)
+![MYSQL](https://img.shields.io/badge/MYSQL-ffffff?logo=mysql&style=for-the-badge&color=272626&logoColor=4479A1)
+![linux](https://img.shields.io/badge/linux-ffffff?logo=linux&style=for-the-badge&color=272626&logoColor=FCC624)
+
 
 #
 
