@@ -2,11 +2,9 @@
 
 #  Matheus Oliveira
 
-**`Full Stack Web Developer`**
+**`Software Engineer`**
 
-Hi there! 👋 I’m a tech enthusiast and full-stack web developer with a passion for building great web applications. Currently, I’m in my third year of Information Technology studies at Oulu University of Applied Sciences (OAMK).
-
-Lately, I’ve been exploring Web3 development and learning about Solidity, which has been a fascinating journey into the world of decentralized technologies. I’m always eager to learn, grow, and connect with others in the tech community!
+Yep
 <!--
 Some of my projects are:
 - **[Rulers](https://github.com/Matheus-OAMK/Rulers)**
